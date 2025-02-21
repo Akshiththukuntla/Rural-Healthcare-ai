@@ -57,6 +57,7 @@ const App = () => {
           <Route path='emergency-services' element={<EmergencyServices />} />
           <Route path='community-support' element={<CommunitySupport />} />
           <Route path='language' element={<Language/>}/>
+          
         </Routes>
         <Chatbot/>
         <Footer />
