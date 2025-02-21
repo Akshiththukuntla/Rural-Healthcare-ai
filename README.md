@@ -52,6 +52,4 @@ npm start
 ## 🤝 Contributing
 Contributions are welcome! Feel free to **fork the repo**, **submit PRs**, or **suggest new features**. 🚀
 
-## 📜 License
-This project is licensed under the **MIT License**.
 
